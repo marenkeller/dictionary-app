@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="btn btn-primary"
-          href="#"
+          href="#https://getbootstrap.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
