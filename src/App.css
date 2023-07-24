@@ -3,11 +3,16 @@
 }
 
 .App-logo {
-  max-width: 300px;
+  max-width: 200px;
   display: block;
   margin: 0 auto;
 }
 
 .btn-primary {
+  margin: 30px;
+}
+
+.App-footer {
+  font-size: small;
   margin: 30px;
 }
