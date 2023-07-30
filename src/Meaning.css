@@ -1,0 +1,9 @@
+.Meaning {
+  text-align: left;
+  margin: 30px 0 0 60px;
+}
+
+.WordGroup {
+  text-transform: capitalize;
+  margin: 15px 0;
+}

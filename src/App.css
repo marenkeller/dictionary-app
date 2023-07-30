@@ -16,3 +16,15 @@
   font-size: small;
   margin: 30px;
 }
+
+a.GithubLink {
+  color: black;
+}
+
+.LogoName {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #0c3939;
+  color: #fff;
+  padding: 30px;
+}
